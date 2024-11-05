@@ -1,2 +1,2 @@
 certUtil -?
-certUtil -hashfile 1.pdf
+certUtil -hashfile 1.pdf md5
