@@ -1,1 +1,2 @@
-
+certUtil -?
+certUtil -hashfile 1.pdf
